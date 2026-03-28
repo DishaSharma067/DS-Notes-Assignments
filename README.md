@@ -43,7 +43,7 @@ All source code files are written in **standard Python 3** and do not require an
 1. Clone the repository:
 
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/DishaSharma067/DS-Notes-Assignments.git
    ```
 
 2. Navigate to the project folder:
